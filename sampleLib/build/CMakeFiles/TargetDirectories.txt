@@ -1,0 +1,3 @@
+F:/WORKS/c++/c++Code/sampleLib/build/CMakeFiles/calculatorShared.dir
+F:/WORKS/c++/c++Code/sampleLib/build/CMakeFiles/edit_cache.dir
+F:/WORKS/c++/c++Code/sampleLib/build/CMakeFiles/rebuild_cache.dir

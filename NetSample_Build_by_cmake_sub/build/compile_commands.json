@@ -1,0 +1,22 @@
+[
+{
+  "directory": "F:/WORKS/c++/c++Code/NetSample_Build_by_cmake_sub/build/client",
+  "command": "F:\\study_app\\MinGW\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\client.dir\\TCPClient.cpp.obj -c F:\\WORKS\\c++\\c++Code\\NetSample_Build_by_cmake_sub\\client\\TCPClient.cpp",
+  "file": "F:/WORKS/c++/c++Code/NetSample_Build_by_cmake_sub/client/TCPClient.cpp"
+},
+{
+  "directory": "F:/WORKS/c++/c++Code/NetSample_Build_by_cmake_sub/build/ThreadPool",
+  "command": "F:\\study_app\\MinGW\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/MyThreadPoolLib.dir/includes_CXX.rsp -g -o CMakeFiles\\MyThreadPoolLib.dir\\ThreadPool.cpp.obj -c F:\\WORKS\\c++\\c++Code\\NetSample_Build_by_cmake_sub\\ThreadPool\\ThreadPool.cpp",
+  "file": "F:/WORKS/c++/c++Code/NetSample_Build_by_cmake_sub/ThreadPool/ThreadPool.cpp"
+},
+{
+  "directory": "F:/WORKS/c++/c++Code/NetSample_Build_by_cmake_sub/build/ThreadPool",
+  "command": "F:\\study_app\\MinGW\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/MyThreadPoolLib.dir/includes_CXX.rsp -g -o CMakeFiles\\MyThreadPoolLib.dir\\taskQueue.cpp.obj -c F:\\WORKS\\c++\\c++Code\\NetSample_Build_by_cmake_sub\\ThreadPool\\taskQueue.cpp",
+  "file": "F:/WORKS/c++/c++Code/NetSample_Build_by_cmake_sub/ThreadPool/taskQueue.cpp"
+},
+{
+  "directory": "F:/WORKS/c++/c++Code/NetSample_Build_by_cmake_sub/build/server",
+  "command": "F:\\study_app\\MinGW\\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\\mingw64\\bin\\g++.exe  @CMakeFiles/server.dir/includes_CXX.rsp -g -o CMakeFiles\\server.dir\\TcpServerThreadPool.cpp.obj -c F:\\WORKS\\c++\\c++Code\\NetSample_Build_by_cmake_sub\\server\\TcpServerThreadPool.cpp",
+  "file": "F:/WORKS/c++/c++Code/NetSample_Build_by_cmake_sub/server/TcpServerThreadPool.cpp"
+}
+]

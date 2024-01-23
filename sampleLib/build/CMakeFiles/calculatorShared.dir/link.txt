@@ -1,0 +1,3 @@
+F:\study_app\PythonAnaconda\main\Lib\site-packages\cmake\data\bin\cmake.exe -E rm -f CMakeFiles\calculatorShared.dir/objects.a
+F:\study_app\MinGW\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\mingw64\bin\ar.exe qc CMakeFiles\calculatorShared.dir/objects.a @CMakeFiles\calculatorShared.dir\objects1.rsp
+F:\study_app\MinGW\x86_64-8.1.0-release-win32-seh-rt_v6-rev0\mingw64\bin\g++.exe -g -shared -o ..\output\libcalculatorShared.dll -Wl,--out-implib,..\output\libcalculatorShared.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\calculatorShared.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\calculatorShared.dir\linklibs.rsp

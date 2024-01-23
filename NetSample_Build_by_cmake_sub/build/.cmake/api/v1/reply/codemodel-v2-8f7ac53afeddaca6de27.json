@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "client",
+					"jsonFile" : "directory-client-Debug-3c37cf1077c78f229df7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "client",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "ThreadPool",
+					"jsonFile" : "directory-ThreadPool-Debug-b53789d5f507b2c59517.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "ThreadPool",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "server",
+					"jsonFile" : "directory-server-Debug-ca16530337ce509e32d1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "server",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "NetSample"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Client",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "ThreadPoolLib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "server",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "MyThreadPoolLib::@d5e3d60c4753925707bc",
+					"jsonFile" : "target-MyThreadPoolLib-Debug-9d8a864bc0fa950ee87c.json",
+					"name" : "MyThreadPoolLib",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "client::@b0c487aac068df482bf0",
+					"jsonFile" : "target-client-Debug-c8de93c64fdec8ed2b0e.json",
+					"name" : "client",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "server::@d19778d2e34a1e3ddfc0",
+					"jsonFile" : "target-server-Debug-4b7e88fb1640038b090b.json",
+					"name" : "server",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/WORKS/c++/c++Code/NetSample_Build_by_cmake_sub/build",
+		"source" : "F:/WORKS/c++/c++Code/NetSample_Build_by_cmake_sub"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
